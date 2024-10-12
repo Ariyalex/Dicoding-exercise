@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Project-Blog"
+		},
+		{
+			"path": "../../latihan#2"
+		},
+		{
+			"path": "../../dicoding latihan/landingpagedicoding"
+		},
+		{
+			"path": "../../tugas_akhir_dicoding"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project-Blog"
+	}
+}
